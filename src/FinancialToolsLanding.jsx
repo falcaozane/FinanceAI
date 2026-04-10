@@ -22,7 +22,7 @@ const FinancialToolsLanding = () => {
       icon: TrendingUp,
       features: ['Real-time Data Analysis', 'Risk Assessment', 'Portfolio Balancing', 'Performance Tracking'],
       gradient: 'from-orange-500 to-yellow-500',
-      embedUrl: 'https://lucifer7210-mutual-fund-optimization.hf.space/'
+      embedUrl: 'https://raulrebello-mutual-fund-optimization.hf.space/'
     },
     {
       id: 'report-generator',
