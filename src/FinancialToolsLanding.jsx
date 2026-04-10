@@ -13,7 +13,7 @@ const FinancialToolsLanding = () => {
       icon: Calculator,
       features: ['Smart Tax Calculations', 'Deduction Optimization', 'Filing Status Analysis', 'Real-time Updates'],
       gradient: 'from-orange-500 to-red-500',
-      embedUrl: 'https://lucifer7210-income-tax-optimizer.hf.space/'
+      embedUrl: 'https://raulrebello-income-tax-optimizer.hf.space/'
     },
     {
       id: 'mutual-fund',
